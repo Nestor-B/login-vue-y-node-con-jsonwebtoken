@@ -1,4 +1,4 @@
-# chat-messeger
+# FrontEnd
 
 ## Project setup
 ```
